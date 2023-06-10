@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RulerProject Version="1.0" Name="logan-2" DevSN="CRSL2018448">
+    <Scans Count="8">
+        <Scan Uuid="{4889c9ad-a620-468c-8eab-3249523b2783}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="183772" Name="Tablescan1" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{64003be3-2af1-4bbb-ba91-32960311c9bf}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="180249" Name="Tablescan2" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{2fdac7d0-fce7-44e6-88a8-116bde3c0e7b}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="186698" Name="Tablescan3" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{1e06f902-1b58-4d39-823f-ef67434f326c}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="21831" Name="Fusion_1" LoadMode="1" AliasName="" Items="1"/>
+        <Scan Uuid="{bdab3d86-a693-4d17-8066-bee764bcf4cf}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="159913" Name="Tablescan4" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{367e9ac7-a99f-47ed-89fd-158b5237980d}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="196619" Name="Tablescan5" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{f34c79fb-cbee-4ba4-bff8-ea75184f8637}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="199289" Name="Tablescan6" LoadMode="1" AliasName="" Items="320"/>
+        <Scan Uuid="{8729e324-ee1a-44b3-a6be-eee2728c43c3}" DataType="1" Selected="1" HasSlamed="0" Size_Kb="44412" Name="Fusion_2" LoadMode="1" AliasName="" Items="1"/>
+    </Scans>
+</RulerProject>

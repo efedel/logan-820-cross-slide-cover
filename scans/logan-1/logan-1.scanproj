@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RulerProject DevSN="CRSL2018448" Name="logan-1" Version="1.0">
+    <Scans Count="2">
+        <Scan Size_Kb="746671" Selected="1" Items="2065" LoadMode="1" HasSlamed="0" DataType="1" Name="Handscan1" AliasName="" Uuid="{44523e42-144f-4f34-98bc-2073dac6b939}"/>
+        <Scan Size_Kb="66766" Selected="1" Items="1" LoadMode="1" HasSlamed="0" DataType="1" Name="Fusion_1" AliasName="" Uuid="{90c46bf3-c469-4bb6-96c4-61e970546885}"/>
+    </Scans>
+</RulerProject>

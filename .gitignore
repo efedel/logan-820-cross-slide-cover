@@ -1,0 +1,6 @@
+*.FCStd1
+*.rscan
+raw-scans.tgz
+.*
+*.swp
+*.swo
