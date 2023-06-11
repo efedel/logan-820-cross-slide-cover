@@ -1,5 +1,6 @@
 ----------------------------------------------------------------------
 *models*
+
 ![FreeCAD screenshot](images/freecad-ss-model.jpg?raw=true "STL file of part")
 
 FreeCAD model of cross slide cover:
@@ -7,6 +8,7 @@ FreeCAD model of cross slide cover:
 
 ----------------------------------------------------------------------
 *STL Files*
+
 ![FSTL screenshot](images/fstl-ss-mesh-export.png?raw=true "CAD model of part")
 
 STL files generated from model (via Mesh Workbench and Solid-export):
@@ -15,6 +17,7 @@ STL files generated from model (via Mesh Workbench and Solid-export):
 	
 ----------------------------------------------------------------------
 *Scans and previous attempts*
+
 ![logan-2 scan](scans/logan-2/thumbnail.png?raw=true "3D Scan of part")
 ![logan-3 scan](scans/logan-3/thumbnail.png?raw=true "3D Scan of part")
 
