@@ -1,12 +1,21 @@
+----------------------------------------------------------------------
+*models*
+![FSTL screenshot](images/fstl-ss-mesh-export.png?raw=true "CAD model of part")
+
 FreeCAD model of cross slide cover:
 	logan-820-cross-slide-cover-model.FCStd
+
+----------------------------------------------------------------------
+*STL Files*
+![FreeCAD screenshot](images/freecad-ss-model.jpg?raw=true "STL file of part")
 
 STL files generated from model (via Mesh Workbench and Solid-export):
 	logan-820-cross-slide-cover-mesh-export.stl
 	logan-820-cross-slide-cover-solid-export.stl
 	
 ----------------------------------------------------------------------
-*Previous steps*
+*Scans and previous attempts*
+![logan-3 scan](scans/logan-3/thumbnail.png?raw=true "3D Scan of part")
 
 3D Scan of cross slide cover:
 	scans/logan-3/logan-cross-slide-top.stl
